@@ -23,3 +23,6 @@
 📊 Power BI dashboards
 🧹 Data cleaning & preprocessing notebooks
 📁 SQL queries & exercises
+
+
+🚀 Actively seeking a Data Analyst role in Nantes
