@@ -2,6 +2,7 @@
 👋 Hi, I'm Xiaoqing
 
 🎓 Data Analyst trainee @ Wild Code School  
+📊 Passionate about Python, SQL & Data Visualization
 📍 Based in Nantes, France
 
 🔍 Interests
