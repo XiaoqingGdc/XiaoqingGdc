@@ -1,6 +1,6 @@
 # Bonjour, je suis Xiaoqing 👋
 
-**Acheteuse & Data Analyst** — j'allie plus de 10 ans d'expérience en achats / supply chain et des compétences data pour transformer les données opérationnelles en meilleures décisions.
+**Acheteuse & Data Analyst** — j'allie plus années d'expérience en achats / supply chain et des compétences data pour transformer les données opérationnelles en meilleures décisions.
 
 📍 Région nantaise · 🗣️ Français · Chinois · Anglais
 🎓 *Concepteur Développeur en IA et Analyse Big Data* — Wild Code School (2026, RNCP niveau 6)
