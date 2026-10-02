@@ -1,6 +1,8 @@
 # Bonjour, je suis Xiaoqing 👋
 
-**Acheteuse & Data Analyst** — j'allie plus années d'expérience en achats / supply chain et des compétences data pour transformer les données opérationnelles en meilleures décisions.
+**Data Analyst · Achats & Supply chain** — j'allie plusieurs années d'expérience en achats / supply chain et des compétences data pour transformer les données opérationnelles en meilleures décisions.
+
+🌐 **Portfolio :** [xiaoqinggdc.github.io](https://xiaoqinggdc.github.io/?utm_source=github&utm_medium=profil) — mes projets détaillés, avec les tableaux de bord consultables en ligne
 
 📍 Région nantaise · 🗣️ Français · Chinois · Anglais
 🎓 *Concepteur Développeur en IA et Analyse Big Data* — Wild Code School (2026, RNCP niveau 6)
@@ -17,14 +19,24 @@
 
 ## 📂 Projets
 
-### 🏭 [AdventureWorks — Analyse supply chain](https://github.com/XiaoqingGdc/adventureworks-supply-chain-analysis)
+### 🏭 [AdventureWorks — Analyse supply chain](https://github.com/XiaoqingGdc/adventureworks-supply-chain-analysis) *(en cours)*
 Quel est l'impact de la performance fournisseurs sur la rotation des stocks et la marge commerciale ?
 Projet de bout en bout : nettoyage et chargement de 13 tables dans SQLite, analyse exploratoire, API FastAPI et tableau de bord Power BI. Géré en sprints hebdomadaires avec Trello.
 `Python` `pandas` `SQLite` `FastAPI` `Power BI`
 
+### 🏨 [Rivage Hôtel Group — Dashboard Power BI](https://github.com/XiaoqingGdc/Rivage_Hotel_Group_Dashboard_Power_BI)
+Suivi de la performance d'un groupe hôtelier dans 10 villes françaises : 73 810 réservations nettoyées avec pandas, KPI du secteur en DAX (ADR, RevPAR, taux d'occupation, taux d'annulation, N / N-1).
+`Python` `pandas` `Power BI` `DAX`
+
 ### ⛽ [Fuel Price Tracker France](https://github.com/XiaoqingGdc/fuel-price-tracker-france)
-Pipeline ETL qui récupère les prix des carburants en France via une API publique, les nettoie avec pandas et alimente un tableau de bord interactif Looker Studio.
-`Python` `pandas` `API` `ETL` `Looker Studio`
+Pipeline ETL automatisé (GitHub Actions) qui récupère chaque heure les prix des carburants en France, les charge dans BigQuery et alimente un tableau de bord Looker Studio de recherche par code postal.
+`Python` `pandas` `BigQuery` `GitHub Actions` `Looker Studio`
+
+### 🌍 [FAO — Sous-nutrition mondiale](https://github.com/XiaoqingGdc/FAO_food_analysis)
+Diagnostic qualité et jointure de 5 sources FAO (171 pays), analyse exploratoire, régression, ACP et clustering K-Means pour dégager des profils de pays.
+`Python` `pandas` `scikit-learn`
+
+👉 **Tous les projets, avec les tableaux de bord interactifs : [mon portfolio](https://xiaoqinggdc.github.io/?utm_source=github&utm_medium=profil)**
 
 ## 🛠️ Compétences techniques
 
@@ -51,6 +63,7 @@ Data engineering — modélisation de données, orchestration de pipelines et ou
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:xiaoqing.zhou@outlook.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F2A3D?style=flat-square&logo=githubpages&logoColor=white)](https://xiaoqinggdc.github.io/?utm_source=github&utm_medium=profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://www.linkedin.com/in/xiaoqingzhougrandcoing)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=XiaoqingGdc&color=blue&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=XiaoqingGdc&color=blue&style=flat-square)
