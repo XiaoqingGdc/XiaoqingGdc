@@ -19,18 +19,26 @@
 
 ## 📂 Projets
 
-### 🏭 [AdventureWorks — Analyse supply chain](https://github.com/XiaoqingGdc/adventureworks-supply-chain-analysis) *(en cours)*
+### 🏭 [AdventureWorks — Analyse supply chain](https://github.com/XiaoqingGdc/adventureworks-supply-chain-analysis)
 Quel est l'impact de la performance fournisseurs sur la rotation des stocks et la marge commerciale ?
-Projet de bout en bout : nettoyage et chargement de 13 tables dans SQLite, analyse exploratoire, API FastAPI et tableau de bord Power BI. Géré en sprints hebdomadaires avec Trello.
-`Python` `pandas` `SQLite` `FastAPI` `Power BI`
+13 tables chargées dans SQLite, API FastAPI, segmentation K-Means des fournisseurs et dashboard Power BI en 4 pages. Constat : les composants sont achetés 75 % au-dessus du coût standard, leur marge passe de 26 % à −30 % avec 436 jours de stock. Action recommandée : renégocier le prix des composants et des pneus.
+`Python` `SQLite` `FastAPI` `scikit-learn` `Power BI`
 
 ### 🏨 [Rivage Hôtel Group — Dashboard Power BI](https://github.com/XiaoqingGdc/Rivage_Hotel_Group_Dashboard_Power_BI)
 Suivi de la performance d'un groupe hôtelier dans 10 villes françaises : 73 810 réservations nettoyées avec pandas, KPI du secteur en DAX (ADR, RevPAR, taux d'occupation, taux d'annulation, N / N-1).
 `Python` `pandas` `Power BI` `DAX`
 
+### 📊 [Performance commerciale France — 2025 vs 2026](https://github.com/XiaoqingGdc/Performance-Commerciale-BigQuery-DataStudio)
+Modèle en étoile construit dans BigQuery et tableau de bord Looker Studio de comparaison N / N-1, avec suivi d'audience du rapport dans Google Analytics.
+`BigQuery` `SQL` `Modèle en étoile` `Looker Studio`
+
 ### ⛽ [Fuel Price Tracker France](https://github.com/XiaoqingGdc/fuel-price-tracker-france)
 Pipeline ETL automatisé (GitHub Actions) qui récupère chaque heure les prix des carburants en France, les charge dans BigQuery et alimente un tableau de bord Looker Studio de recherche par code postal.
 `Python` `pandas` `BigQuery` `GitHub Actions` `Looker Studio`
+
+### 🤖 [Automatisation de ma recherche d'emploi](https://github.com/XiaoqingGdc/job-search-automation-make)
+Scénario Make planifié chaque matin : appel de l'API Adzuna, dédoublonnage des offres et ajout des nouvelles dans un Google Sheet qui sert aussi de suivi de candidatures.
+`Make` `API REST` `JSON` `Google Sheets`
 
 ### 🌍 [FAO — Sous-nutrition mondiale](https://github.com/XiaoqingGdc/FAO_food_analysis)
 Diagnostic qualité et jointure de 5 sources FAO (171 pays), analyse exploratoire, régression, ACP et clustering K-Means pour dégager des profils de pays.
