@@ -21,7 +21,7 @@
 
 ### 🏭 [AdventureWorks — Analyse supply chain](https://github.com/XiaoqingGdc/adventureworks-supply-chain-analysis)
 Quel est l'impact de la performance fournisseurs sur la rotation des stocks et la marge commerciale ?
-13 tables chargées dans SQLite, API FastAPI, segmentation K-Means des fournisseurs et dashboard Power BI en 4 pages. Constat : les composants sont achetés 75 % au-dessus du coût standard, leur marge passe de 26 % à −30 % avec 436 jours de stock. Action recommandée : renégocier le prix des composants et des pneus.
+15 tables chargées dans SQLite, API FastAPI, segmentation K-Means des fournisseurs et dashboard Power BI en 4 pages. Constat : les composants sont achetés 75 % au-dessus du coût standard, leur marge passe de 26 % à −30 % avec 436 jours de stock. Action recommandée : renégocier le prix des composants et des pneus.
 `Python` `SQLite` `FastAPI` `scikit-learn` `Power BI`
 
 ### 🏨 [Rivage Hôtel Group — Dashboard Power BI](https://github.com/XiaoqingGdc/Rivage_Hotel_Group_Dashboard_Power_BI)
